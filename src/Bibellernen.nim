@@ -1,5 +1,6 @@
 import models/userModel
 import ./database/database
+import os, bcrypt
 
 echo("Hello, Rokas!")
 
